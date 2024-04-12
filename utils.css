@@ -1,0 +1,27 @@
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.card {
+  max-width: 91vw;
+  margin: auto;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+.my-2 {
+  margin: 26px 0;
+}
+
+.my-1 {
+  margin: 15px 0;
+}
+
+.text-center {
+  align-items: center;
+
+}
